@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "958476996789",
+    "project_id": "gurhan-speech-to-text",
+    "storage_bucket": "gurhan-speech-to-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958476996789:android:107742448990258f37eefc",
+        "android_client_info": {
+          "package_name": "com.example.speech_to_text_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958476996789-q0qmbt2vr3lejdfba720ubvnkqpei5h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDZevYqtMYMUvWSjQZqdM6WEa_1saOn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958476996789-q0qmbt2vr3lejdfba720ubvnkqpei5h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958476996789-r0mj0eveehb0ugipgp544ohndqd2qlag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.speechToTextFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
